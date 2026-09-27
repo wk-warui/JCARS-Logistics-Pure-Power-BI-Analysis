@@ -29,7 +29,6 @@ The analysis recorded approximately **KSh1.24 billion in revenue**, with **415 u
 - Microsoft Power BI
 - Power Query
 - DAX
-- Excel / CSV
 
 ## Repository Contents
 - Power BI `.pbix` file
